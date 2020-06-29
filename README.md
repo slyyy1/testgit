@@ -9,8 +9,8 @@
    5. 自制模拟放大电路
 + 如果想了解跟多，请移步: http://blog.csdn.net/ricky_hust/article/details/9766385 这是我在CSDN技术博客上贴出自己的总结报告
 + 项目作者：Cheng Zhang , Ziping Zhao , Jiao Li
-# Basys2-Verilog-E-Piano
-# 1.概述
+# 前期调查报告
+## 1.概述
 本项目设计一个可以产生21种音阶的电子琴，由PS2键盘完成输入，在Basys2板识别处理后，产生特定频率声音，最后通过Pmod_AMP模块发出。
 本项目演示视频已在b站上传https://www.bilibili.com/video/av22146292/
 # 2.设计目标
